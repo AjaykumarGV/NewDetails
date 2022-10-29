@@ -40,7 +40,7 @@ public class AjayKumarDetails {
 	}
 	
 	private void ajayNumber() {
-		System.out.println("9876543210");
+		System.out.println("9876543211");
 
 	}
 	
