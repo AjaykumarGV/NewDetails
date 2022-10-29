@@ -11,7 +11,9 @@ public class AjayKumarDetails {
 	}
 
 	private void ajayKumarAddress() {
-		System.out.println("Kokki Kumar Address is Chennai");
+
+		System.out.println("Vishnu Kumar Address is Chennai");
+
 
 	}
 
